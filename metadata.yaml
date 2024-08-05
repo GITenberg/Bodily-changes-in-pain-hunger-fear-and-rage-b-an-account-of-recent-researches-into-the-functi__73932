@@ -1,0 +1,40 @@
+_repo: Bodily-changes-in-pain-hunger-fear-and-rage-b-an-account-of-recent-researches-into-the-functi__73932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cannon, Walter B. (Walter Bradford)
+    aliases:
+    - Cannon, W. B. (Walter Bradford)
+    - Cannon, Walter Bradford
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '57279'
+    url: http://www.gutenberg.org/2009/agents/57279
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Bradford_Cannon
+description: ''
+gutenberg_issued: '2024-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73932'
+  lccn: '15009718'
+language: en
+pgterms:marc904: https://archive.org/details/bodilychangesinp00cann
+pgterms:marc905: 20230617092236cannon
+pgterms:marc906: '1915'
+pgterms:marc907: us
+production_note: Peter Becker, Neil Mercer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Appleton and Company, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Emotions'
+- !lcsh 'Mental health'
+- !lcsh 'Mind and body'
+- !lcc 'QP'
+- GITenberg
+title: 'Bodily changes in pain, hunger, fear, and rage : $b an account of recent researches
+  into the function of emotional excitement'
+url: http://www.gutenberg.org/ebooks/73932
